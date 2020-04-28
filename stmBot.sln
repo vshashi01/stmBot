@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stmBot", "stmBot\stmBot.vcxproj", "{BCF2408C-153B-4662-A5B1-2E0C98901F9E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stmAPP", "..\stmAPP\stmAPP.vcxproj", "{DB987241-B37A-48FF-B369-AF09F499EB49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stmCPP", "..\stmCPP\stmCPP.vcxproj", "{3768B9AA-CBA8-4ADF-9FBA-2B61DB1A3CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF2408C-153B-4662-A5B1-2E0C98901F9E}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{BCF2408C-153B-4662-A5B1-2E0C98901F9E}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{BCF2408C-153B-4662-A5B1-2E0C98901F9E}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{BCF2408C-153B-4662-A5B1-2E0C98901F9E}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{DB987241-B37A-48FF-B369-AF09F499EB49}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{DB987241-B37A-48FF-B369-AF09F499EB49}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{DB987241-B37A-48FF-B369-AF09F499EB49}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{DB987241-B37A-48FF-B369-AF09F499EB49}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{3768B9AA-CBA8-4ADF-9FBA-2B61DB1A3CC1}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{3768B9AA-CBA8-4ADF-9FBA-2B61DB1A3CC1}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{3768B9AA-CBA8-4ADF-9FBA-2B61DB1A3CC1}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{3768B9AA-CBA8-4ADF-9FBA-2B61DB1A3CC1}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38ABDA04-42BE-4333-BFA0-905996219FEA}
+	EndGlobalSection
+EndGlobal
